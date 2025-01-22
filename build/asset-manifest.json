@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f8a90598.js",
+    "static/media/rotating-card-bg-front.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
+    "static/media/jhr_1.jpeg": "/static/media/jhr_1.bcf1e186a615eb137630.jpeg",
+    "static/media/edsyonseibuildingfar.jpeg": "/static/media/edsyonseibuildingfar.a0ec50ec883862a7e392.jpeg",
+    "static/media/phj_1.png": "/static/media/phj_1.23e5d6babc2662456af7.png",
+    "static/media/rotating-card-bg-back.jpeg": "/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
+    "static/media/class_init_logo_black.png": "/static/media/class_init_logo_black.d0e10fa204c028acb262.png",
+    "static/media/YonseiUniversityEmblem.png": "/static/media/YonseiUniversityEmblem.864ba6d33d89985e425d.png",
+    "static/media/ssy_1.png": "/static/media/ssy_1.32b2f75f6b9974af2281.png",
+    "static/media/cyj_1.png": "/static/media/cyj_1.74a85caeca972f4e721e.png",
+    "static/media/psh_1.png": "/static/media/psh_1.e1e79eba77a04fbe0d9c.png",
+    "index.html": "/index.html",
+    "main.f8a90598.js.map": "/static/js/main.f8a90598.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f8a90598.js"
+  ]
+}
